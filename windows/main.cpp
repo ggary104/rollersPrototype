@@ -1,5 +1,6 @@
 #include "game.hpp"
 #include <iostream>
+#include <ctime>
 #include <cmath>
 #include <string>
     using std::string;
