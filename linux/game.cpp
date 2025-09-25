@@ -156,7 +156,7 @@ void Game::printGame(){
     std::string empty = "          ";
     
     // PRINT GAME
-    system("cls");
+    system("clear");
     // Computer Side
     std::cout << std::endl << empty << empty << empty <<"|||||||||||||||||||||||||||||||||||||||||" << std::endl;
     for(int i = 1; i < 6; i++){
